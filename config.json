@@ -1,10 +1,9 @@
 {
   "schema": 1,
   "subscription": {
-    "monthly_price": 50,
     "yearly_price": 600,
     "currency": "₽",
-    "trial_days": 30,
+    "trial_days": 7,
     "expiry_warning_days": 3
   },
   "servers": {
