@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "subscription": {
-    "yearly_price": 600,
+    "yearly_price": 1200,
     "currency": "₽",
     "trial_days": 7,
     "expiry_warning_days": 3
@@ -24,9 +24,9 @@
       }
     ]
   },
-    "features": {
-        "sync_enabled": true
-    },
+  "features": {
+    "sync_enabled": true
+  },
   "misc": {
     "history_page_size": 50
   }
