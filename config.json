@@ -7,22 +7,6 @@
     "expiry_warning_days": 3
   },
   "servers": {
-    "directory": [
-      { "host": "159.194.209.136", "port": 8000 }
-    ],
-    "relay": [
-      { "host": "159.194.209.136", "port": 9002 }
-    ],
-    "stun": [
-      { "host": "159.194.209.136", "port": 3478 }
-    ],
-    "turn": [
-      {
-        "urls": "turn:159.194.209.136:3478",
-        "username": "norma",
-        "credential": "AndrDimi__2721"
-      }
-    ],
     "bootstrap_nodes": [
       { "host": "159.194.209.136", "port": 9000 }
     ],
