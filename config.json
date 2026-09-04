@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "subscription": {
-    "enabled": false,
+    "enabled": true,
     "yearly_price": 1200,
     "currency": "₽",
     "trial_days": 7,
