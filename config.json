@@ -9,11 +9,15 @@
   },
   "servers": {
     "bootstrap_nodes": [
-      { "host": "159.194.209.136", "port": 9000 }
+      { "host": "159.194.226.252", "port": 9000 }
     ],
     "push_relay": {
-      "host": "159.194.209.136",
+      "host": "5.35.94.104",
       "port": 8080
-    }
+    },
+    "stun": [
+      { "host": "stun.cloudflare.com", "port": 3478 },
+      { "host": "stun.l.google.com", "port": 19302 }
+    ]
   }
 }
