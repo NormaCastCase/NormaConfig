@@ -18,6 +18,7 @@
     "stun": [
       { "host": "stun.cloudflare.com", "port": 3478 },
       { "host": "stun.l.google.com", "port": 19302 }
-    ]
+    ],
+    "hoster_nodes_enabled": true
   }
 }
